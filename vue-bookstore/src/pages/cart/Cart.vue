@@ -36,12 +36,12 @@ export default {
   data() {
     return {
       currency: {
-        name: 'USD',
-        symbol: '$'
+        name: 'RUB',
+        symbol: '₽'
       },
 
       promo: {
-        code: 'EXAMPLECODE',
+        code: '',
         value: 5
       }
     };

@@ -6,11 +6,11 @@
           <div class="logo-home"></div>
           <div class="footer-text">
             <div class="social-links">
-              <span class="social twitter"><a href="https://twitter.com/pineviewlabs" target="_blank">Twitter</a></span>
-              <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank">Github</a></span>
+              <span class="social twitter"><a href="https://twitter.com/pineviewlabs" target="_blank"><img src="/images-cloud/twitter.png"></a></span>
+              <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank"><img src="/images-cloud/github.png"></a></span>
             </div>
 
-            <p>© 2022 Middlemarch. All Right Reserved.</p>
+            <p>© 2022 Книжный магазин Middlemarch. Все права защищены.</p>
           </div>
         </div>
       </div>
